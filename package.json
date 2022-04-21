@@ -1,0 +1,25 @@
+{
+  "name": "ok-web3",
+  "version": "1.0.1",
+  "main": "index.js",
+  "unpkg": "index.browser.js",
+  "author": "Revelation A.F",
+  "description": "Manage smart-chain contract token and functions",
+  "keywords": [
+    "web3",
+    "bep20",
+    " bep20 token",
+    "bep20-contract",
+    "bsc token",
+    "bsc"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "install": "^0.13.0",
+    "web3": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
