@@ -6,10 +6,10 @@
 4. Transaction confirmation
 5. Block check and status resolver
 
-####Prerequisite
+#### Prerequisite
 Must have installed `npm i web3`
 
-###**LIBRARY USAGE**
+### **LIBRARY USAGE**
 **Declare a config object based on your wallet**
 
 `let config = {
@@ -29,7 +29,7 @@ Must have installed `npm i web3`
      
      if you want to override predefined values, follow the above
      
-  ##SEE QUICK USAGE
+  ## SEE QUICK USAGE
   
   `let {Transactions, CONFIG, PROVIDERS} = require('okweb3');`
   
