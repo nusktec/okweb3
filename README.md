@@ -1,7 +1,7 @@
 # **OKWEB3 CORE LIB**
 
-> `npm i okweb3`
-### > `https://www.npmjs.com/package/okweb3`
+> install `npm i okweb3`
+<br /> npm page `https://www.npmjs.com/package/okweb3`
 
 **Function list**
 1. Make a custom token transfer to any bep20 address
